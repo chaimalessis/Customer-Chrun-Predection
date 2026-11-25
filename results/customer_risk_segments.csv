@@ -1,0 +1,4 @@
+Risk_Band,Customers,Total_Value,Value_At_Risk,Actual_Churn_Rate_pct,High-Value,Mid-Value,Standard
+High,424,53099.0,46821.1,88.7,4,58,362
+Medium,150,16944.8,5391.6,32.0,0,16,134
+Low,2276,1283678.8,5080.2,1.0,566,781,929

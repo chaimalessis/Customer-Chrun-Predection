@@ -1,0 +1,29 @@
+Variable,Quartile,n,churn_pct,min,max
+Call_Failure,Q1 low,713,17.1,0.0,1.0
+Call_Failure,Q2,712,16.0,1.0,6.0
+Call_Failure,Q3,712,13.9,6.0,12.0
+Call_Failure,Q4 high,713,15.6,12.0,36.0
+Subscription_Length,Q1 low,713,12.2,3.0,29.0
+Subscription_Length,Q2,712,21.6,29.0,35.0
+Subscription_Length,Q3,712,16.7,35.0,38.0
+Subscription_Length,Q4 high,713,12.1,38.0,47.0
+Seconds_of_Use,Q1 low,713,34.6,0.0,1455.0
+Seconds_of_Use,Q2,712,19.0,1470.0,3040.0
+Seconds_of_Use,Q3,712,9.0,3042.0,6500.0
+Seconds_of_Use,Q4 high,713,0.0,6500.0,17090.0
+Frequency_of_use,Q1 low,713,31.1,0.0,28.0
+Frequency_of_use,Q2,712,23.0,28.0,54.0
+Frequency_of_use,Q3,712,6.9,55.0,96.0
+Frequency_of_use,Q4 high,713,1.5,96.0,255.0
+Frequency_of_SMS,Q1 low,713,21.0,0.0,7.0
+Frequency_of_SMS,Q2,712,23.6,7.0,22.0
+Frequency_of_SMS,Q3,712,17.3,22.0,88.0
+Frequency_of_SMS,Q4 high,713,0.7,88.0,522.0
+Distinct_Called_Numbers,Q1 low,713,30.7,0.0,11.0
+Distinct_Called_Numbers,Q2,712,17.6,11.0,21.0
+Distinct_Called_Numbers,Q3,712,11.8,21.0,34.0
+Distinct_Called_Numbers,Q4 high,713,2.5,34.0,97.0
+Customer_Value,Q1 low,713,34.4,0.0,117.495
+Customer_Value,Q2,712,18.3,117.625,232.36
+Customer_Value,Q3,712,9.3,232.68,789.84
+Customer_Value,Q4 high,713,0.7,790.16,2165.28

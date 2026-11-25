@@ -1,0 +1,13 @@
+Feature,Importance
+Complains,0.2653
+Frequency_of_use,0.1301
+Call_Failure,0.1057
+Subscription_Length,0.1017
+Seconds_of_Use,0.0963
+Status,0.0586
+Distinct_Called_Numbers,0.0533
+Age,0.0369
+Customer_Value,0.0174
+Frequency_of_SMS,0.0054
+Tariff_Plan,0.0
+Charge_Amount,-0.0002

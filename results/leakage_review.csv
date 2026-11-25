@@ -1,0 +1,13 @@
+Feature,Source,Available_At_Prediction,Leakage_Risk
+Call_Failure,9-month summary,Yes,Low
+Complains,Flag from the 9-month window,Yes,Medium: complaint may be filed at the point of leaving; confirm with the business
+Subscription_Length,Account age at observation,Yes,Low
+Charge_Amount,9-month billing band,Yes,Low
+Seconds_of_Use,9-month total,Yes,Low
+Frequency_of_use,9-month total,Yes,Low
+Frequency_of_SMS,9-month total,Yes,Low
+Distinct_Called_Numbers,9-month total,Yes,Low
+Tariff_Plan,Contract type at observation,Yes,Low
+Status,Active/non-active at observation,Yes,Medium: non-active may already mean disengaged; confirm it is set before the 3-month gap
+Age / Age_Group,Demographic,Yes,Low (duplicate information: Age_Group dropped)
+Customer_Value,Calculated value at observation,Yes,Low (also used for value at risk)

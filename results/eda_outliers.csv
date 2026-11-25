@@ -1,0 +1,8 @@
+Variable,Mean,Median,Max,Skew,Outliers_IQR,Outlier_Churn_Rate_pct
+Call_Failure,7.8,6.0,36.0,1.07,44,20.45
+Subscription_Length,32.45,35.0,47.0,-1.25,0,
+Seconds_of_Use,4534.24,3041.0,17090.0,1.31,189,0.0
+Frequency_of_use,70.48,54.5,255.0,1.15,118,0.0
+Frequency_of_SMS,73.79,22.0,522.0,1.97,333,0.0
+Distinct_Called_Numbers,23.87,21.0,97.0,1.04,82,0.0
+Customer_Value,474.99,232.52,2165.28,1.42,104,0.0

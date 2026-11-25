@@ -1,0 +1,6 @@
+Retention_Action,Rule,Customers,Value_At_Risk,Expected_Benefit,What_The_Team_Does,Priority
+1 - Personal call + best offer,High risk and High-Value,4,2959.0,1104.0,Account manager calls with the strongest offer,Immediate
+2 - Targeted discount / SMS offer,"High risk, other tiers",420,43862.0,9145.0,"Targeted discount or SMS offer, tested against a control group",This week
+3 - Proactive check-in,"Medium risk, Mid or High value",16,1651.0,340.0,Light contact to understand problems before they grow,This month
+4 - Automated nurture,"Medium risk, Standard value",134,3741.0,-1184.0,"Automated messages only, no manual cost",Automated
+5 - Normal service,Low risk,2276,5080.0,-43488.0,No action; contacting costs more than it saves,None
